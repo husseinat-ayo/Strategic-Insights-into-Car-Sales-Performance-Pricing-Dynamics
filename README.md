@@ -61,8 +61,3 @@ I specialize in transforming chaotic operational data into automated, intuitive 
 | 📧 **Email** | <ayomidehusseinat@gmail.com> |
 | 💼 **LinkedIn** | [linkedin.com](https://linkedin.com) |
 | 📁 **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
-
-
-• 📧 Email: [mailto:ayomidehusseinat@gmail.com]
-• 💼 LinkedIn: [linkedin.com]
-• 📁 Portfolio: [yourportfolio.com]
