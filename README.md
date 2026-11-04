@@ -15,10 +15,11 @@ A scaling automotive enterprise experienced a sharp surge in transaction volume 
 
 The Solution
 
-![Strategic-Insights-into-Car-Sales-Performance-Pricing-Dynamics](charts.png)
-
 I built an interactive, business-critical Automotive Market Intelligence Dashboard in Power BI to serve as a single source of truth for cross-functional leadership teams (Procurement, Sales, and Finance). By integrating multi-dimensional market variables into a clean star-schema data model, the dashboard translates complex, fragmented dealership transactions into highly scannable, interactive visual assets.
 The interface empowers stakeholders to instantly filter data across key dimensions (Vehicle Make, Fuel Type, Transmission, and Regional Tiers) to quickly diagnose underperforming inventory, optimize procurement strategies, and maximize total portfolio revenue.
+
+![Strategic-Insights-into-Car-Sales-Performance-Pricing-Dynamics](charts.png)
+
 
 🛠️ Tech Stack & Advanced Engineering
 
