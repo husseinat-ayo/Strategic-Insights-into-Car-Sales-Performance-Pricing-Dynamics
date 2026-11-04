@@ -3,7 +3,7 @@
 
 An end-to-end data analytics and business intelligence solution designed to track, evaluate, and optimize vehicle pricing structures, inventory turnover metrics, and margin performance across regional dealerships.
 
-[PLACEHOLDER FOR YOUR CAR SALES DASHBOARD SCREENSHOT HERE]
+![Strategic-Insights-into-Car-Sales-Performance-Pricing-Dynamics](dashboard.png)
 
 
 📘 The Business Story (Project Overview)
