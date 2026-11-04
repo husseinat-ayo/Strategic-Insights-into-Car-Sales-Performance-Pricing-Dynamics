@@ -53,6 +53,16 @@ The final analytical interface uncovers strategic performance indicators across 
 🤝 Let's Collaborate / Hire Me
 
 I specialize in transforming chaotic operational data into automated, intuitive assets that protect profit margins and drive business strategy. Looking for a data analyst who can translate raw metrics into immediate business ROI? Let's connect.
+
+## 📬 Connect with Me
+
+| Contact Method | Link |
+| :--- | :--- |
+| 📧 **Email** | <ayomidehusseinat@gmail.com> |
+| 💼 **LinkedIn** | [linkedin.com](https://linkedin.com) |
+| 📁 **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
+
+
 • 📧 Email: [mailto:ayomidehusseinat@gmail.com]
 • 💼 LinkedIn: [linkedin.com]
 • 📁 Portfolio: [yourportfolio.com]
